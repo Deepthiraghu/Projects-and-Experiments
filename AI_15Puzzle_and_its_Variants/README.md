@@ -1,3 +1,4 @@
+This project is to solve a 15 puzzle. It was done as a part of my graduate course - Elements of Artificial Intelligence.
 
 ## Formulation of the search problem:
 We are using best first approach where from state of the board the heuristic function will choose the best possible next state of the board to reach the goal state.
