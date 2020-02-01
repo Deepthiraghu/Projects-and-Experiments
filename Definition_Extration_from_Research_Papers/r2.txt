@@ -1,0 +1,1 @@
+rule rules set string state grammar algorithm language input number grammars strings states case symbol form symbols languages finite time
