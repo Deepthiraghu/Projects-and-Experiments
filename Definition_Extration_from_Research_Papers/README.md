@@ -1,1 +1,1 @@
-This application extracts definitions from ACL Anthology research papers using Hidden Markov Model based feature extraction and classication using CRF tool.
+This application extracts definitions from ACL Anthology research papers using Hidden Markov Model based feature extraction and classification using CRF tool.
