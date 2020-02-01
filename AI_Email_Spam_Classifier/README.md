@@ -1,4 +1,8 @@
 This project is on Email Spam CLassification using bag of words model and a Naive Bayes Classifier. This was done as a part of my graduate course - Elements of Artificial Intelligence.
+The data files are compressed to distribute them efficiently
+via github. To extract, type:
+
+tar -xzf data.tar.gz
 
 The problem is primarily split into two parts:
 * Training the emails in the training directory using bag of words model
