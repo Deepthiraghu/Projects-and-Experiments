@@ -1,6 +1,6 @@
 
 # Horizon finding
-This project is to identify horizons in images. We'll assume relatively clean images, where the mountain is plainly visible, there are no other objects obstructing the mountain's ridge-line, the mountain takes up the full horizontal dimension of the image, and the sky is relatively clear. Under these assumptions, for each column of the image we need to estimate the row of the image corresponding to the boundary position. Plotting this estimated row for each column will give a horizon estimate.
+This project is to identify horizons in images. This was part of my Graduate Course - Elements of Artificial Intelligence. We'll assume relatively clean images, where the mountain is plainly visible, there are no other objects obstructing the mountain's ridge-line, the mountain takes up the full horizontal dimension of the image, and the sky is relatively clear. Under these assumptions, for each column of the image we need to estimate the row of the image corresponding to the boundary position. Plotting this estimated row for each column will give a horizon estimate.
 
 The horizon finding problem is split into three parts:
 ## Part 1 
