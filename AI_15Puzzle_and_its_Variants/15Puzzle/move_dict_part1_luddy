@@ -1,0 +1,10 @@
+{
+"A":"up two and left one",
+"B":"up two and right one",
+"C":"down two and left one",
+"D":"down two and right one",
+"E":"left two and up one",
+"F":"right two and up one",
+"G":"left two and down one",
+"H":"right two and down one"
+}
